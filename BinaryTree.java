@@ -1,5 +1,4 @@
 import java.util.NoSuchElementException;
-import java.util.HashMap;
 
 /**
  * Represents a node in a binary tree.
